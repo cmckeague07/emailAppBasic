@@ -4,18 +4,11 @@ This Email Application is a simple Java-based program designed to manage email a
 
 Features:
 
-Dynamic Email Creation:
+Dynamic Email Creation: Combines user’s first name, last name, and department with a company suffix to generate an email address.
 
-Combines user’s first name, last name, and department with a company suffix to generate an email address.
+Password Management: Generates a random password for each user & allows users to change their password.
 
-Password Management:
-
-Generates a random password for each user.
-Allows users to change their password.
-
-Department Assignment:
-
-Prompts the user to select a department during email creation.
+Department Assignment: Prompts the user to select a department during email creation.
 
 Supports the following departments:
 
@@ -24,32 +17,13 @@ Supports the following departments:
 3 for Accounting
 0 for None
 
-Mailbox Settings:
+Mailbox Settings: Allows users to set mailbox capacity & supports alternate email addresses.
 
-Allows users to set mailbox capacity.
-Supports alternate email addresses.
+User Information Display: Displays the user’s name, email, and mailbox capacity.
 
-User Information Display:
-
-Displays the user’s name, email, and mailbox capacity.
-
-Clone the Repository:
-
-git clone <repository_url>
-cd emailAppBasic
-
-Compile the Code:
-
-Navigate to the src directory and compile the Java files:
-cd src
-javac emailApp/Email.java emailApp/EmailApp.java
-
-Execute the main application:
-java emailApp.EmailApp
-
-Follow the Prompts:
-Enter the first and last name.
-Select a department.
+Running the Application, enter the following prompts: 
+Enter the first and last name,
+Select a department,
 View the generated email, password, and other details.
 
 Example Usage
