@@ -1,4 +1,5 @@
 Overview
+
 This Email Application is a simple Java-based program designed to manage email accounts for employees in an organization. The program demonstrates key programming principles such as encapsulation, user input handling, random password generation, and dynamic email creation based on department selection.
 
 Features:
