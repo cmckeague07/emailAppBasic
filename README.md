@@ -36,6 +36,7 @@ Last Name: Doe
 
 Department Code: 1
 
+
 Output:
 
 Your password is: Abc123$%!@
@@ -47,17 +48,4 @@ DISPLAY NAME: John Doe
 COMPANY EMAIL: john.doe@sales.aeycompany.com
 
 MAILBOX CAPACITY: 500mb
-
-
-File Structure
-
-emailAppBasic/
-|-- src/
-|   |-- emailApp/
-|       |-- Email.java       # Handles email creation and management
-|       |-- EmailApp.java    # Entry point for the application
-|-- .gitignore                # Files to ignore in version control
-|-- .classpath                # IDE-specific configuration
-|-- .project                  # IDE-specific configuration
-|-- .settings/                # IDE-specific settings
 
